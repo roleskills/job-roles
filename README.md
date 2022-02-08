@@ -1,5 +1,5 @@
 # About this Repository
-Welcome to the world of Free information!!
+Welcome to the world of free information!!
 
 This repo list the **job roles** and **required skills** to help you prepare for job duties as well as interviews.
 
